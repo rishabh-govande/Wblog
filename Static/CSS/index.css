@@ -1,0 +1,16 @@
+.img1{
+    height: 300px;
+    widows: 200px;
+}
+
+.img2{
+    height: 300px;
+    widows: 200px;
+}
+
+.text{
+    font-style: inherit;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-justify: auto;
+}
